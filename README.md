@@ -1,2 +1,2 @@
-# Horror-Game-Genres
-Different horror game genres explained
+# Action Horror Games
+Action horror games explained
