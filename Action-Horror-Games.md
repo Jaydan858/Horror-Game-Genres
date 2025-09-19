@@ -8,7 +8,7 @@
 
 
 ## Plot
-- In Resident Evil 4, federal agent Leon S. Kennedy is sent to a remote part of Spain to rescue the U.S. President's daughter, Ashley Graham, from a sinister Los Illuminados cult. The cult uses a parasitic organism called the Las Plagas, which infects its host, to control villagers and pursue their own biological weapon agenda. Leon must fight through the infected villagers, the cult's leaders, and the mysterious spy Ada Wong to save Ashley and escape the isolated region.  
+- In Resident Evil 4, federal agent Leon S. Kennedy is sent to a remote part of Spain to rescue the U.S. President's daughter, Ashley Graham, from a sinister Los Illuminados cult. The cult uses a parasitic organism called the Las Plagas, which infects its host, to control villagers and pursue their own biological weapon agenda. Leon must fight through the infected villagers, the cult's leaders, and the mysterious spy Ada Wong to save Ashley and escape the isolated region. 
 
 ## Gameplay
 Resident Evil 4 gameplay involves exploring dangerous locations to rescue the President's daughter, engaging in intense third-person combat against infected villagers, managing limited resources like ammo and healing items, and solving environmental puzzles. Key mechanics include using weapons and melee to conserve ammo, exploiting enemy weaknesses with targeted shots, utilizing a merchant to upgrade gear, and completing side quests for rewards. Both the classic 2005 game and the 2023 Remake feature over-the-shoulder aiming, but the Remake adds fluid movement, quicker action, and an improved melee system with a persistent knife.  
