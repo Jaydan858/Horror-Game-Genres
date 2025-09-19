@@ -1,1 +1,1 @@
-
+# _The horror game genre uses dark settings, suspense, and frightening themes to evoke fear in players. Common sub-genres include survival horror, which focuses on managing limited resources against overwhelming odds; psychological horror, which plays on mental and emotional states; and action horror, which blends horror with combat. Other sub-genres involve stealth, jump scares, or unique gameplay mechanics like asymmetrical horror, where players can be either the hunter or the hunted_
