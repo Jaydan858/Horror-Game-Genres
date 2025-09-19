@@ -12,7 +12,7 @@
 - Silent Hill 2 is considered a psychological horror game because it explores themes of guilt, grief, and trauma through its unsettling story, symbolic monster designs, and psychological environment. The town itself transforms based on protagonist James Sunderland's psyche, making the horror deeply personal and an outward manifestation of his inner demons rather than relying on jump scares. 
 
 # Characters 
-*James Sunderland
+* James Sunderland
 * Mary Sunderland
 * Maria
 * Angela Orosco
