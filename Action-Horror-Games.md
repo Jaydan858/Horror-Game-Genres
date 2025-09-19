@@ -1,5 +1,5 @@
 # _Action Horror Games_
-## <u>Action Horror genre Explained using Resident evil 4<u>
+## <u>Action Horror Genre Explained Using Resident evil 4</u>
 ![Alt text](https://www.gematsu.com/wp-content/uploads/2022/06/RE4-Remake-Ann_06-02-22.jpg?w=640)
 ## Plot Setup
 * Six years after Raccoon City: Leon S. Kennedy, now a federal agent, is still haunted by the events of the Raccoon City outbreak
