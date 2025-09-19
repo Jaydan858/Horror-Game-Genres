@@ -32,3 +32,13 @@ Ammo: Conserve and craft ammunition, as it is scarce.
 Game Structure
 ## Why Resident Evil 4 Is Considered An Action Horror Game
 - Resident Evil 4 is considered action horror because it blends tense, unsettling horror elements with a strong emphasis on combat and action, such as its over-the-shoulder camera, laser sight for precise targeting, context-sensitive combat moves, and more abundant resources compared to earlier games in the series. While it contains frightening moments and suspenseful encounters, the shift in gameplay focus toward aggressive, tactical shooting and melee combat differentiates it from traditional survival horror.  
+
+# Characters
+* **Leon Scott Kennedy**
+* **Ashley Graham**
+* **Ada Wong**
+* **Luis Sera**
+* **Osmund Saddler**
+* **Bitores Mendez**
+* **Jack Krauser**
+* **Ramón Salazar**
