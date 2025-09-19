@@ -4,6 +4,6 @@
 
 # !(<img width="3424" height="2400" alt="image" src="https://github.com/user-attachments/assets/71f43d6f-5a64-4dbf-919c-66d46a1c5a17" />)
 
-1. [Survival Horror](https://github.com/Jaydan858/Horror-Game-Genres/blob/Survival-Horror-Games/Survival-Horror-Games.md)
-2. [Action Horror](https://github.com/Jaydan858/Horror-Game-Genres/blob/Action-Horror-Games/Action-Horror-Games.md)
-3. [Psychological Horror]()
+1. [Action Horror](https://github.com/Jaydan858/Horror-Game-Genres/blob/Action-Horror-Games/Action-Horror-Games.md)
+2. [Psychological Horror](https://github.com/Jaydan858/Horror-Game-Genres/blob/Psychological-Horror-Games/README.md)
+3. [Survival Horror](https://github.com/Jaydan858/Horror-Game-Genres/blob/Survival-Horror-Games/Survival-Horror-Games.md)
