@@ -6,3 +6,4 @@
 
 1. [Survival Horror](https://github.com/Jaydan858/Horror-Game-Genres/blob/Survival-Horror-Games/Survival-Horror-Games.md)
 2. [Action Horror](https://github.com/Jaydan858/Horror-Game-Genres/blob/Action-Horror-Games/Action-Horror-Games.md)
+3. [Psychological Horror]()
